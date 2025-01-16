@@ -1,0 +1,16 @@
+h1 {
+    font-family: Papyrus, fantasy;
+    color: brown;
+}
+.hola{
+    background-image: url(campos-girasoles_default.webp);
+    width: 100%;  
+}
+body{
+    background-color: rgb(253, 253, 124);
+    font-family: Helvetica;
+}
+h2{
+    font-family: Papyrus;
+    
+}
